@@ -1,0 +1,10 @@
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\bin\Debug\DBBackFillTest.exe.config
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\bin\Debug\DBBackFillTest.exe
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\bin\Debug\DBBackFillTest.pdb
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\bin\Debug\DBBackfill.dll
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\bin\Debug\DBBackfill.pdb
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\obj\Debug\DBBackFillTest.csproj.AssemblyReference.cache
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\obj\Debug\DBBackFillTest.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\obj\Debug\DBBackFillTest.csproj.CopyComplete
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\obj\Debug\DBBackFillTest.exe
+C:\Projects\GitHub\DBBackfill2\DBBackFillTest\obj\Debug\DBBackFillTest.pdb
