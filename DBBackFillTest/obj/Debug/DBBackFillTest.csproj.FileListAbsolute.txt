@@ -8,3 +8,14 @@ C:\Projects\GitHub\DBBackfill2\DBBackFillTest\obj\Debug\DBBackFillTest.csproj.Co
 C:\Projects\GitHub\DBBackfill2\DBBackFillTest\obj\Debug\DBBackFillTest.csproj.CopyComplete
 C:\Projects\GitHub\DBBackfill2\DBBackFillTest\obj\Debug\DBBackFillTest.exe
 C:\Projects\GitHub\DBBackfill2\DBBackFillTest\obj\Debug\DBBackFillTest.pdb
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\bin\Debug\DBBackFillTest.exe.config
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\bin\Debug\DBBackFillTest.exe
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\bin\Debug\DBBackFillTest.pdb
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\bin\Debug\DBBackfill.dll
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\bin\Debug\DBBackfill.pdb
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\obj\Debug\DBBackFillTest.csproj.AssemblyReference.cache
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\obj\Debug\DBBackFillTest.csproj.SuggestedBindingRedirects.cache
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\obj\Debug\DBBackFillTest.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\obj\Debug\DBBackFillTest.csproj.CopyComplete
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\obj\Debug\DBBackFillTest.exe
+C:\Projects\GitHub\DBBackFill\DBBackFillTest\obj\Debug\DBBackFillTest.pdb
